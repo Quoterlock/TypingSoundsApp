@@ -1,0 +1,2 @@
+selected-preset : default
+volume(%) : 50

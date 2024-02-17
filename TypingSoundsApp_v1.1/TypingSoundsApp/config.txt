@@ -1,0 +1,4 @@
+selected-preset : default
+volume(%) : 50
+pitch_max_delta : 0.1
+volume_max_delta : 5
