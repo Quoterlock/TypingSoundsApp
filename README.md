@@ -7,7 +7,7 @@ Config.txt located besides the executable. In config file you can change:
 - selected preset
 - volume level
 - volume delta (from 0 to 100)
-- pitch delta (from 0 to 2)
+- pitch delta (from 0 to 1)
 
 Volume delta and pitch delta is the deviation in sound that is picked randomly every key press to make sounds more unique.
 
