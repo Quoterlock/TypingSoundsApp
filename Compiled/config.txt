@@ -1,4 +1,4 @@
-selected-preset : keyboard_v2
+selected-preset : default
 volume(%) : 20
 pitch_max_delta : 0.05
 volume_max_delta : 5
